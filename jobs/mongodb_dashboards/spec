@@ -1,0 +1,7 @@
+---
+name: mongodb_dashboards
+
+templates:
+  MongoDB_DCU.json: MongoDB_DCU.json
+
+packages: []

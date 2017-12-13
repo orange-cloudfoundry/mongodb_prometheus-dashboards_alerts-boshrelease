@@ -1,0 +1,3 @@
+# MongoDB Prometheus Exporter Dashboard. Works well with https://github.com/dcu/mongodb_exporter If you have the node_exporter running on the mongo instance, you will also get some useful alert panels related to disk io and cpu.
+# https://grafana.com/dashboards/2583
+# Download : https://grafana.com/api/dashboards/2583/revisions/2/download
