@@ -1,1 +1,6 @@
-name: mongodb_prometheus-dashboards_alerts
+---
+final_name: mongodb_prometheus-dashboards_alerts
+blobstore:
+  provider: s3 
+  options:
+    bucket_name: orange-mongodb_prometheus-dashboards_alerts-cf-service-boshrelease
