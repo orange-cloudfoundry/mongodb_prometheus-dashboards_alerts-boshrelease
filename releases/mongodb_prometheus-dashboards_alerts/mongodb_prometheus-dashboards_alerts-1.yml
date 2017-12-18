@@ -1,0 +1,13 @@
+name: mongodb_prometheus-dashboards_alerts
+version: "1"
+commit_hash: dd3454f
+uncommitted_changes: false
+jobs:
+- name: mongodb_alerts
+  version: c2991bc1df66030ac693fcbad8d893abb70b128d
+  fingerprint: c2991bc1df66030ac693fcbad8d893abb70b128d
+  sha1: e0e47d4d4b031052377dff8070368c05bc2a65fd
+- name: mongodb_dashboards
+  version: 6eebfe1899ffa26f26c724679dedb103d7b59195
+  fingerprint: 6eebfe1899ffa26f26c724679dedb103d7b59195
+  sha1: 72ac1c604a62894a36e92ad2d4c5ad9ac8b396a5
