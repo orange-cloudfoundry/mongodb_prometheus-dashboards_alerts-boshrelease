@@ -5,6 +5,7 @@ packages: []
 
 templates:
   mongodb_exporter.alerts: mongodb_exporter.alerts
+  mongodb_exporter.alerts.yml: mongodb_exporter.alerts.yml
 
 properties:
   mongodb_alerts.scrape_error.evaluation_time:
